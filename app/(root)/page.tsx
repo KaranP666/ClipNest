@@ -1,8 +1,11 @@
+import Header from '@/components/Header'
 import React from 'react'
 
 const page = () => {
   return (
-    <div>page</div>
+    <main className='wrapper page'>
+    <Header title='All Videos' subHeader='Public Library' />
+   </main>
   )
 }
 
