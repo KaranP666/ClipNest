@@ -7,7 +7,7 @@ const page = () => {
   return (
     <main className='wrapper page'>
     <Header title='All Videos' subHeader='Public Library' />
-    <h1>Welcome to Capturly</h1>
+    <h1>Welcome to ClipNest</h1>
      <section className="video-grid">
          {dummyCards.map((card) => (
         <VideoCard key={card.id} {...card} />
