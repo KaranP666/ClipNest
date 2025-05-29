@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Karan-Panchal-s-workspace-6kvr4p.us-east-1.xata.sh/db/clipnest",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
